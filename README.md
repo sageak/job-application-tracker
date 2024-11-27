@@ -48,6 +48,7 @@ Run the Application:
 npm start
 Access the Application:
 The application will run at http://localhost:3000.
+
 Usage
 Register: Sign up as a new user.
 Login: Access your dashboard using your credentials.
